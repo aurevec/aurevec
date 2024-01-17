@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aurélien</h1>
 <h3 align="center">A passionate Product Manager and Backend Developer from Belgium</h3>
 
-- 🔭 I’m currently working on [Insurgate](www.insurgate.be)
+- 🔭 I’m currently working on [Regate](https://www.regate.io/)
 
-- 🌱 I’m currently learning **Gitpod development flow**
+- 🌱 I’m currently learning **How to industrialize growing SaaS**
 
-- 👯 I’m looking to collaborate on **early stage and scaling SaaS project**
+- ~~👯 I’m looking to collaborate on **early stage and scaling SaaS project**~~
 
-- 💬 Ask me about **early stage startup and product to boost**
+- 💬 Ask me about **growing startup and product to boost**
 
 - 📫 How to reach me **aurelien@aurevec.be**
 
